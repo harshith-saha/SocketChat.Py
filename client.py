@@ -62,4 +62,4 @@ receive_thread = Thread(target=receive)
 receive_thread.start()
 tkinter.mainloop()  # Starts GUI execution.
 #Gotham is my master
-#Sure
+#Sure this works
